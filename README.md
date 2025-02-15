@@ -16,7 +16,7 @@ I'm a **BCA student (2nd Year)** from **Lucknow, India**. Passionate about codin
 ---
 
 ### 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://https://github.com/priyansu8/priyansu8)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/priyansu8/priyansu8)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/priyanshu-dubey-a0071b292?)  
 
 Feel free to connect and collaborate! 🚀
