@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there! 👋 I'm Priyanshu Dubey
 
-<!--
-**priyansu8/priyansu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BCA student (2nd Year)** from **Lucknow, India**. Passionate about coding and development, I have experience in:
 
-Here are some ideas to get you started:
+- 💻 **Languages:** C, C++, Java  
+- 🌐 **Web Development:** HTML, CSS, JavaScript (beginner)  
+- 📚 **Currently Learning:** Data Structures & Algorithms (DSA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On  
+🔹 Enhancing my programming skills  
+🔹 Exploring JavaScript & Frontend Development  
+🔹 Learning more about Data Structures and Algorithms  
+
+---
+
+### 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/priyanshu-dubey-a0071b292?)  
+
+Feel free to connect and collaborate! 🚀
