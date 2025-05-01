@@ -2,16 +2,18 @@
 
 I'm a **BCA student (2nd Year)** from **Lucknow, India**. Passionate about coding and development, I have experience in:
 
-- 💻 **Languages:** C, C++, Java  
-- 🌐 **Web Development:** HTML, CSS, JavaScript (beginner)  
+- 💻 **Languages:**  Java, C++, JavaScript, SQL 
+- 🌐 **Web Development:** HTML, CSS, JavaScript (intermediate)  
 - 📚 **Currently Learning:** Data Structures & Algorithms (DSA)
+- 💻 **Interests:** Android Development, Software Quality Management 
 
 ---
 
 ### 🚀 What I'm Working On  
-🔹 Enhancing my programming skills  
-🔹 Exploring JavaScript & Frontend Development  
-🔹 Learning more about Data Structures and Algorithms  
+•⁠  ⁠Enhancing my Java Weather Dashboard with real-time updates and additional features like weather alerts.
+•⁠  ⁠Learning Android development to build mobile apps, starting with basic UI design and Java integration.
+•⁠  ⁠Exploring SQL databases to manage data for my projects efficiently.
+•⁠  ⁠Improving my C++, JavaScript, and CSS skills through small coding exercises and web experiments.
 
 ---
 
